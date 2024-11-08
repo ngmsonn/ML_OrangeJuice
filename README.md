@@ -1,1 +1,1 @@
-# Machine Learning with Orange Juice
+# Machine Learning Project for Orange Juice Discrimination and Classification Based on Spectral Data.
